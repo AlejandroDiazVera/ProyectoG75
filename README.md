@@ -1,2 +1,2 @@
 # ProyectoG75
-Proyecto  de Deforestación en Boyaca y cundinamarca. nombre Alejandro Díaz Vera
+Proyecto  de Deforestación en Boyacá y cundinamarca. nombre Alejandro Díaz Vera
